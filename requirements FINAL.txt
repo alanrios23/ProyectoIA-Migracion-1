@@ -1,0 +1,36 @@
+# =========================================
+# Proyecto: Migración interna en Colombia
+# Machine Learning + Interpretabilidad
+# =========================================
+
+# Manipulación de datos
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualización
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.1
+xgboost==2.1.1
+imbalanced-learn==0.12.3
+shap==0.46.0
+
+# Clustering mixto
+kmodes==0.12.2
+
+# Geoespacial
+geopandas==1.0.1
+
+# Utilidades
+joblib==1.4.2
+scipy==1.14.1
+
+# Notebook
+jupyter==1.1.1
+notebook==7.2.1
+ipykernel==6.29.5
+
+# Opcional (Google Colab)
+google-colab
