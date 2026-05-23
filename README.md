@@ -1,4 +1,4 @@
-# Determinantes económicos, sociales y demográficos de la migración en Colombia 🇨🇴
+# Determinantes económicos, sociales y demográficos de la migración en Colombia
 
 > *Machine Learning + Economía aplicada para entender por qué migran los colombianos.*
 
